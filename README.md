@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Gaurav2794/LeetCode/tree/master/0067-add-binary) |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
 |  |
@@ -29,9 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gaurav2794/LeetCode/tree/master/0067-add-binary) |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Greedy
 |  |
 | ------- |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Gaurav2794/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Gaurav2794/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
