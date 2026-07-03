@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav2794/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Gaurav2794/LeetCode/tree/master/0067-add-binary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav2794/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav2794/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gaurav2794/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
