@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Gaurav2794/LeetCode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Gaurav2794/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Gaurav2794/LeetCode/tree/master/0326-power-of-three) |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gaurav2794/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Gaurav2794/LeetCode/tree/master/0189-rotate-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav2794/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gaurav2794/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Gaurav2794/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
