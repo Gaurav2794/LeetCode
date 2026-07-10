@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gaurav2794/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/Gaurav2794/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/Gaurav2794/LeetCode/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gaurav2794/LeetCode/tree/master/0217-contains-duplicate) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Gaurav2794/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
