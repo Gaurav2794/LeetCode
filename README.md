@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Gaurav2794/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Gaurav2794/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gaurav2794/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Gaurav2794/LeetCode/tree/master/0326-power-of-three) |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Gaurav2794/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Gaurav2794/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gaurav2794/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gaurav2794/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Gaurav2794/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Gaurav2794/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Gaurav2794/LeetCode/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/Gaurav2794/LeetCode/tree/master/0525-contiguous-array) |
 ## Design
