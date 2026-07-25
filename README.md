@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Gaurav2794/LeetCode/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav2794/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gaurav2794/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gaurav2794/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav2794/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaurav2794/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Gaurav2794/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Gaurav2794/LeetCode/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gaurav2794/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav2794/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
