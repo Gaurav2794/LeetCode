@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Gaurav2794/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Gaurav2794/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Gaurav2794/LeetCode/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav2794/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gaurav2794/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gaurav2794/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Gaurav2794/LeetCode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Gaurav2794/LeetCode/tree/master/0525-contiguous-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav2794/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav2794/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav2794/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaurav2794/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Gaurav2794/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Gaurav2794/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gaurav2794/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav2794/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
