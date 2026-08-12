@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Gaurav2794/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Gaurav2794/LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Gaurav2794/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Gaurav2794/LeetCode/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Gaurav2794/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav2794/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Gaurav2794/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Gaurav2794/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Gaurav2794/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gaurav2794/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Gaurav2794/LeetCode/tree/master/0204-count-primes) |
