@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Gaurav2794/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav2794/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gaurav2794/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav2794/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav2794/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav2794/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav2794/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gaurav2794/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gaurav2794/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav2794/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gaurav2794/LeetCode/tree/master/0055-jump-game) |
+| [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 | [2864-maximum-odd-binary-number](https://github.com/Gaurav2794/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gaurav2794/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
@@ -220,14 +223,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Gaurav2794/LeetCode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Gaurav2794/LeetCode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Gaurav2794/LeetCode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -245,8 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav2794/LeetCode/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav2794/LeetCode/tree/master/0169-majority-element) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
