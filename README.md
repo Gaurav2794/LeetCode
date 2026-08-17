@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gaurav2794/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Gaurav2794/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Gaurav2794/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Gaurav2794/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Gaurav2794/LeetCode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav2794/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Gaurav2794/LeetCode/tree/master/0877-stone-game) |
@@ -222,11 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Gaurav2794/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Gaurav2794/LeetCode/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Gaurav2794/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Gaurav2794/LeetCode/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -259,5 +262,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Gaurav2794/LeetCode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/Gaurav2794/LeetCode/tree/master/2029-stone-game-ix) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Gaurav2794/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Gaurav2794/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
